@@ -1,0 +1,25 @@
+Payment Method Usage Count:
+payment_type
+UPI            5
+Debit Card     4
+Credit Card    4
+Net Banking    3
+Wallet         3
+Name: count, dtype: int64
+
+Total Transaction Amount per Payment Method:
+payment_type
+Credit Card    4150
+Debit Card     3300
+Net Banking    2100
+UPI            5000
+Wallet         1050
+
+
+stats analysis:
+payment_type                           
+Credit Card   300.0   300.0  300  300
+Debit Card    600.0   600.0  700  500
+Net Banking   400.0   400.0  400  400
+UPI          200.0   200.0  300  100
+Wallet        50.0    50.0   50   50
