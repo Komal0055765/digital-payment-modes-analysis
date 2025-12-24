@@ -1,0 +1,20 @@
+payment_type,transaction_amount
+UPI,500
+UPI,1200
+UPI,800
+UPI,1500
+UPI,1000
+Debit Card,700
+Debit Card,900
+Debit Card,600
+Debit Card,1100
+Credit Card,1000
+Credit Card,1300
+Credit Card,900
+Credit Card,950
+Net Banking,800
+Net Banking,700
+Net Banking,600
+Wallet,300
+Wallet,400
+Wallet,350
